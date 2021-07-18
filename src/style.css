@@ -1,0 +1,25 @@
+#header-img {
+  width: 100px;
+}
+
+#nav-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+@media (max-width: 800px) {iframe {
+  width: 900px;
+  }
+}
+@media (min-width: 100px) {iframe {
+  width: 500px;
+  }
+}
+
+#container {
+  display: flex;
+}
+#footer-list {
+  display: flex;
+}
